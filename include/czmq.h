@@ -35,5 +35,11 @@ typedef int (czmq_comparator) (const void *item1, const void *item2);
 
 //  Include the project library file
 #include "czmq_library.h"
+#include "zfips202.h"
+#include "zntru_functions.h"
+#include "zntru_kem.h"
+#include "zntru_params.h"
+#include "zntru_poly.h"
+#include "zrng.h"
 
 #endif

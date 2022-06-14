@@ -61,6 +61,11 @@
     <class name = "zhttp_request"  />
     <class name = "zhttp_response" />
     <class name = "zosc" />
+    <class name = "zntru_kem" />
+    <class name = "fips202" />
+    <class name = "zntru_functions" />
+    <class name = "zntru_poly" />
+    <class name = "rng" />
 
     <!-- These classes have no API model -->
     <class name = "zauth" state = "stable" />
